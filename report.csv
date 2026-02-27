@@ -1,0 +1,47 @@
+section,key,value
+failed_ips, 192.168.2.20, 1281
+failed_ips, 185.220.101.42, 1305
+failed_ips, 192.168.1.15, 1248
+failed_ips, 192.168.1.10, 1212
+failed_ips, 192.168.1.25, 1264
+failed_ips, 192.255.1.10, 1204
+attacked_users, root, 1241
+attacked_users, ubuntu, 1229
+attacked_users, josipa, 1270
+attacked_users, oracle, 1293
+attacked_users, admin, 1279
+attacked_users, sergio, 1202
+success_by_country,USA,2508|606|24.16
+success_by_country,Argentina,2477|617|24.91
+success_by_country,Croatia,2553|641|25.11
+success_by_country,Singapur,2462|622|25.26
+suspicious_ips,192.168.2.20,1281|421
+suspicious_ips,185.220.101.42,1305|400
+suspicious_ips,192.168.1.15,1248|389
+suspicious_ips,192.168.1.10,1212|422
+suspicious_ips,192.255.1.10,1204|423
+suspicious_ips,192.168.1.25,1264|431
+failed_hours,7,309
+failed_hours,16,284
+failed_hours,2,305
+failed_hours,12,290
+failed_hours,0,337
+failed_hours,3,304
+failed_hours,20,305
+failed_hours,22,300
+failed_hours,18,345
+failed_hours,19,284
+failed_hours,9,301
+failed_hours,15,357
+failed_hours,23,305
+failed_hours,8,306
+failed_hours,10,324
+failed_hours,4,339
+failed_hours,21,309
+failed_hours,6,317
+failed_hours,13,315
+failed_hours,14,305
+failed_hours,11,332
+failed_hours,17,302
+failed_hours,5,307
+failed_hours,1,332
