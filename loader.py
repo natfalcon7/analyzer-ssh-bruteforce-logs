@@ -15,7 +15,9 @@ def load_logs(path=LOG_PATH):
 
 	except FileNotFoundError:
 		errors.append(f"File not found: {path}")
-    except PermissionError:
-    	errors.append(f"No permission to read: {path}")
+	except PermissionError:
+		errors.append(f"No permission to read: {path}")
+
+
 
 

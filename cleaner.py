@@ -1,6 +1,6 @@
 from datetime import datetime
 
-def cleaner(line):
+def cleaner_logs(line):
 	fields = line.strip().split(",")
 	if len(fields) != 5:
 		return None
